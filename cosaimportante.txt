@@ -1,0 +1,3 @@
+Cómo decirlo en una entrevista:
+
+El proyecto está organizado usando una arquitectura basada en features con principios de Domain-Driven Design en el frontend, lo que facilita la escalabilidad y el mantenimiento.
